@@ -1,11 +1,10 @@
-# Experiment-Analisis-Keamanan-Pada-Web-Sistem-Informasi-EvaOktavianti-312310380
 Experiment 
 1. Menjalankan Apache dan Mysql melalui aplikasi XAMPP.
+![Gambar1](https://github.com/user-attachments/assets/64cf6ad7-748b-4eb3-8252-adbb44f5da8c)
 
 
 
 
-![Gambar1](https://github.com/user-attachments/assets/a5b272f5-6b96-454d-8ea4-ecb8d113dd38)
 
 
 
@@ -13,6 +12,7 @@ Experiment
 
 2. Buatkan database untuk menghubungkan ke web tersebut 
 3. untuk membuat database buka lah web browser lalu ketikan http://localhost/phpmyadmin
+![Gambar2](https://github.com/user-attachments/assets/53a9fd32-2fa2-44cf-9a2d-41168d757cc3)
 
 
 
@@ -29,6 +29,7 @@ Experiment
 
 
 4. setelah dibuat databasenya lalu koneksikan ke database dengan kode tersebut 
+![Gambar3](https://github.com/user-attachments/assets/18656b07-6fc3-4e78-ad82-b65bf4ed86de)
 
 
 
@@ -39,6 +40,7 @@ Experiment
 
 	
 5. setelah di koneksikan berhasil lalu memasukan kode register untuk membuat akun pada tampilan login
+![Gambar4](https://github.com/user-attachments/assets/08686b54-3b35-4999-beea-94d89aba667a)
 
 
 
@@ -59,6 +61,7 @@ Experiment
 6. jika sudah dimasukan kode tersebut akan menampilkan halaman seperti ini 
  
 7. Lalu masukan kode index.php untuk memunculkan halaman login di bagian web.
+![Gambar5](https://github.com/user-attachments/assets/5efaaf20-4cc3-4cf5-bff6-f7e664f84e8a)
 
 
 
@@ -76,6 +79,7 @@ Experiment
 8. berikut tampilan halaman pada login yang sudah dimasukan kode diatas 
  
 9. Setelah memasukan kode index lalu masukan kode welcome untuk menampilkan halaman setelah login.
+![Gambar6](https://github.com/user-attachments/assets/e6435e3c-3b50-4483-8afb-be4b2da4d067)
 
 
 
@@ -85,12 +89,13 @@ Experiment
 
 
 
-10. setelah berhasil membuat kode tersebut akan menampilkan halaman seperti ini
+
+11. setelah berhasil membuat kode tersebut akan menampilkan halaman seperti ini
 
 
 
 
-11. Terakhir masukan kode logout untuk kembali ke tampilan awal pada halaman web 
+12. Terakhir masukan kode logout untuk kembali ke tampilan awal pada halaman web 
 
 
 
